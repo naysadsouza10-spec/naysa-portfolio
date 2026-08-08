@@ -4,16 +4,20 @@ Hi, I'm Naysa Aldrin Dsouza 👋
 Grade 11 student passionate about graphic design, digital marketing, and AI. This repository is where I keep my certificates, achievements, and project work.
 📍 Mumbai, Maharashtra
 📧 naysadsouza01@gmail.com 
+
 🚀 Featured Project
 Anchor — AI-Powered Caregiver Support Web App
 Built for the Be10X AI Generalist Hackathon. Anchor helps first-time family caregivers of a sick or aging loved one by offering a Gemini-powered prescription/report explainer, a symptom urgency checker, a private space for emotional support, an auto-saved care log, and a guided breathing exercise.
+
 🔗 Live app: anchor-2611.ai.studio
-Built using Google AI Studio (no-code), powered by Gemini
+Built using Google AI Studio (no-code), powered by Gemini.
+
 🎨 Skills
 Design: Canva (logo & brand design, visual content creation)
 AI Tools: Prompt engineering, AI-assisted app building, AI-powered presentations
 Marketing: Digital marketing fundamentals, branding, content creation
 Data: AI-powered data analysis & visualization (Excel, Power BI)
+
 📜 Certificates — BE10X AI Career Accelerator Program
 Certificate
 Core Skills Covered
@@ -36,7 +40,9 @@ Real-world problem framing, AI system design & workflow automation, end-to-end s
 Crash Course – AI Strategy, Branding & Leadership
 AI voice-overs, dubbing & audio production, SQL with AI
 (Full certificate PDFs available in this repository)
+
 🎓 Education
 Bhavan's College — Grade 11 (Class of 2028)
-10th Board Exams: 91% | Best of 5: 94.8%
+Ryan International School - 
+10th Board Exams: 91% | Best of 5: 94.8% 
 Thanks for stopping by! Feel free to reach out if you'd like to connect. 
